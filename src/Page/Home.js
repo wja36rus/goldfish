@@ -1,13 +1,12 @@
 import React from "react";
-import Header from "../Components/Header/Header";
 import Nav from "../Components/Nav/Nav";
 
 function Home() {
     return (
         <React.Fragment>
-            <Header>
+            <header>
                 <Nav/>
-            </Header>
+            </header>
             <main className="container">
                 <h1>Home</h1>
             </main>

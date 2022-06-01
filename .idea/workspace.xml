@@ -2,30 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea4ec7cc-8862-4fb7-87ec-75d2bf03761b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Nav/Nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/News.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Page/Profile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Nav/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Nav/Nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Page/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Page/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Page/News.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Page/News.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Page/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Page/Profile.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654105082886</updated>
-      <workItem from="1654105097601" duration="8609000" />
+      <workItem from="1654105097601" duration="9021000" />
     </task>
     <servers />
   </component>
@@ -113,22 +96,22 @@
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state x="2352" y="163" key="#ESLint/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1654116364532" />
-    <state width="1652" height="251" key="GridCell.Tab.0.bottom" timestamp="1654117228957">
+    <state width="1652" height="251" key="GridCell.Tab.0.bottom" timestamp="1654123714093">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1652" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1654117228957" />
-    <state width="1652" height="251" key="GridCell.Tab.0.center" timestamp="1654117228957">
+    <state width="1652" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1654123714093" />
+    <state width="1652" height="251" key="GridCell.Tab.0.center" timestamp="1654123714093">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1652" height="251" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1654117228957" />
-    <state width="1652" height="251" key="GridCell.Tab.0.left" timestamp="1654117228956">
+    <state width="1652" height="251" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1654123714093" />
+    <state width="1652" height="251" key="GridCell.Tab.0.left" timestamp="1654123714093">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1652" height="251" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1654117228956" />
-    <state width="1652" height="251" key="GridCell.Tab.0.right" timestamp="1654117228957">
+    <state width="1652" height="251" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1654123714093" />
+    <state width="1652" height="251" key="GridCell.Tab.0.right" timestamp="1654123714093">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1652" height="251" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1654117228957" />
+    <state width="1652" height="251" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1654123714093" />
     <state x="2261" y="147" key="SettingsEditor" timestamp="1654120225893">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>

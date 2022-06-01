@@ -1,5 +1,4 @@
-import React, {useEffect, useState} from "react";
-import Header from "../Components/Header/Header";
+import React, {useEffect} from "react";
 import Nav from "../Components/Nav/Nav";
 import {useNavigate} from "react-router-dom";
 
@@ -13,9 +12,9 @@ function Profile() {
 
     return (
         <React.Fragment>
-            <Header>
+            <header>
                 <Nav/>
-            </Header>
+            </header>
             <main className="container">
                 <h1>Profile</h1>
             </main>

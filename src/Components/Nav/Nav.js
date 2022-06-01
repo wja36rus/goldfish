@@ -33,7 +33,7 @@ function Nav() {
                 }
                 {
                     auth && <button onClick={() => exit()}
-                        className="btn btn-danger ms-auto">Exit</button>
+                                    className="btn btn-danger ms-auto">Exit</button>
                 }
             </div>
         </nav>
