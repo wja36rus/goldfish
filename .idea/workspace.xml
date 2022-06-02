@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea4ec7cc-8862-4fb7-87ec-75d2bf03761b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Cards/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Cards/Card.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Cards/CardItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Cards/card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style/Style.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Nav/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Nav/Nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Page/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Page/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Page/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Page/Login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Page/News.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Page/News.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Page/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Page/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,11 +98,23 @@
       <option name="presentableId" value="Default" />
       <updated>1654105082886</updated>
       <workItem from="1654105097601" duration="9021000" />
+      <workItem from="1654158938136" duration="518000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="2352" y="163" key="#ESLint" timestamp="1654116364532">
