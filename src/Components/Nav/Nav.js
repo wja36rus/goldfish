@@ -18,7 +18,7 @@ function Nav() {
     };
 
     return (
-        <nav className="shadow">
+        <nav className="bg-white shadow position-fixed w-100 z-primary">
             <div className="container d-flex align-items-center pt-3 pb-3">
                 {
                     nav.map((n) =>

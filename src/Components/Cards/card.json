@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Lorem ipsum dolor sit amet",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ad animi explicabo facilis, illo illum ipsa ipsam laboriosam minima modi neque quis quod soluta totam, voluptates. Commodi fugiat nostrum quibusdam!",
+    "date": "10 мая 2022",
+    "time": "15:24"
+  },
+  {
+    "id": 2,
+    "title": "Consequuntur",
+    "body": "Consequuntur, cumque cupiditate doloremque eaque earum facere, fugit illo ipsam molestiae natus nostrum, obcaecati officia officiis perspiciatis placeat reprehenderit sint sunt vel. Ad aspernatur eveniet itaque nulla pariatur, reprehenderit suscipit!",
+    "date": "10 мая 2022",
+    "time": "15:24"
+  },
+  {
+    "id": 3,
+    "title": "Ab architecto asperiores consequatur",
+    "body": "Ab architecto asperiores consequatur culpa deleniti deserunt, dignissimos doloribus ducimus est ex excepturi hic illum inventore magnam maiores nobis pariatur perferendis perspiciatis placeat quibusdam quis quod sapiente similique temporibus vitae!",
+    "date": "10 мая 2022",
+    "time": "15:24"
+  },
+  {
+    "id": 4,
+    "title": "Deleniti excepturi nostrum numquam veniam!",
+    "body": "Deleniti excepturi nostrum numquam veniam! Aliquid aperiam aut deleniti deserunt doloremque dolores eaque error, est fugit in mollitia, nemo officia officiis porro possimus repellat sed veniam voluptas. Molestiae, officiis, porro.",
+    "date": "10 мая 2022",
+    "time": "15:24"
+  },
+  {
+    "id": 5,
+    "title": "Consequuntur dignissimos",
+    "body": "Consequuntur dignissimos ea eius exercitationem hic nesciunt obcaecati odio rerum, ullam. Architecto eum labore modi praesentium, quibusdam sapiente tenetur veritatis vitae. Ab accusantium exercitationem laborum nihil perferendis quasi quibusdam tempora?",
+    "date": "10 мая 2022",
+    "time": "15:24"
+  },
+  {
+    "id": 6,
+    "title": "Aliquam dolore dolores",
+    "body": "Aliquam dolore dolores ducimus earum esse est explicabo inventore maiores minima officia porro qui quibusdam quis tempora ullam, vitae, voluptate. Ad consequuntur distinctio esse fugit id pariatur perspiciatis possimus quae.",
+    "date": "10 мая 2022",
+    "time": "15:24"
+  },
+  {
+    "id": 7,
+    "title": "Eveniet excepturi exercitationem",
+    "body": "Eveniet excepturi exercitationem laboriosam, minus natus sapiente. Assumenda aut debitis ducimus, enim et explicabo inventore quidem ratione reprehenderit voluptate. Ad adipisci eius et facilis illo maiores maxime vitae voluptate voluptatum!",
+    "date": "10 мая 2022",
+    "time": "15:24"
+  },
+  {
+    "id": 8,
+    "title": "Commodi consectetur",
+    "body": "Commodi consectetur, cumque cupiditate deleniti esse et excepturi expedita fuga fugit iusto laboriosam laborum molestiae natus nemo nobis nulla, odit officiis omnis perspiciatis quaerat quidem sit temporibus vel velit voluptatem.",
+    "date": "10 мая 2022",
+    "time": "15:24"
+  },
+  {
+    "id": 9,
+    "title": "Esse eveniet fugiat laborum",
+    "body": "Esse eveniet fugiat laborum minima nostrum similique tempore voluptatem. Aperiam architecto autem cum doloremque eligendi harum perspiciatis quae qui quo. Cum ea labore laboriosam perferendis voluptates? Asperiores necessitatibus quae similique.",
+    "date": "10 мая 2022",
+    "time": "15:24"
+  },
+  {
+    "id": 10,
+    "title": "Cum deleniti dicta dolor",
+    "body": "Cum deleniti dicta dolor ducimus ea eius error, facilis maiores nulla odit possimus provident quae quis sed suscipit. Doloribus dolorum libero minus mollitia nobis reprehenderit tempore temporibus unde veniam voluptatibus.",
+    "date": "10 мая 2022",
+    "time": "15:24"
+  }
+]

@@ -1,5 +1,6 @@
 import React from "react";
 import Nav from "../Components/Nav/Nav";
+import Card from "../Components/Cards/Card";
 
 function News() {
     return (
@@ -7,8 +8,8 @@ function News() {
             <header>
                 <Nav/>
             </header>
-            <main className="container">
-                <h1>News</h1>
+            <main className="container top-5">
+                <Card/>
             </main>
         </React.Fragment>
     );

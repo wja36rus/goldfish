@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea4ec7cc-8862-4fb7-87ec-75d2bf03761b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cards/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cards/Card.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cards/CardItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Cards/card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Style/Style.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Nav/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Nav/Nav.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Page/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Page/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Page/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Page/Login.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Page/News.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Page/News.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Page/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Page/Profile.js" afterDir="false" />
     </list>
@@ -19,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="Less File" />
       </list>
     </option>
   </component>
@@ -39,6 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Page" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,17 +56,30 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Sergey\Desktop\goldfish\src\Page" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Sergey\Desktop\goldfish\src\Page" />
       <recent name="C:\Users\Sergey\Desktop\goldfish\src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KazminSA\Desktop\goldfish\src\Images" />
+      <recent name="C:\Users\Sergey\Desktop\goldfish\src\Page" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">

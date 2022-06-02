@@ -1,0 +1,28 @@
+.z-primary {
+  z-index: 999999999 !important;
+}
+.top-5 {
+  padding-top: 5rem;
+}
+.w-profile {
+  width: 40rem;
+}
+.user_icon {
+  width: 100%;
+}
+@media screen and (max-width: 991px) {
+  .w-profile {
+    width: auto;
+  }
+}
+@media screen and (max-width: 768px) {
+  .w-profile {
+    width: auto;
+    display: grid !important;
+  }
+  .user_icon {
+    width: 12rem;
+    margin: 0 auto;
+  }
+}
+/*# sourceMappingURL=Style.css.map */

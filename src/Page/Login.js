@@ -10,7 +10,7 @@ function Login() {
 
     useEffect(() => {
         isAuth && navigate("/profile");
-    }, [isAuth]);
+    }, [isAuth, navigate]);
 
     const auth = () => {
         if (!username || !password) {
